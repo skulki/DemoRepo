@@ -16,6 +16,5 @@ puts @test
 #puts "#{type} is #{f}"
 #puts "\n"
 #end
-puts "test"
 puts "</body>"
 puts "</html>"
